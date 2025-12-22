@@ -9,7 +9,7 @@ This section outlines the shared benchmarks that sustain integrity and credibili
 Every BitDevs location operates under a set of non-negotiable standards. These principles preserve the reputation, trust, and independence of the network.
 
 1. **Bitcoin-Only Focus**  
-   All meetups, discussions, and learning materials must remain strictly focused on Bitcoin and its related open-source technologies. Altcoins, tokens, and marketing-driven content are not permitted.
+   All meetups, discussions, and learning materials must remain strictly focused on Bitcoin and its related open-source technologies. Altcoins, tokens, and marketing-driven content are not permitted. 
 
 2. **Free and Open Access**  
    Meetups must be open to the public and free to attend. Registration systems may be used for planning purposes, but access must never be gated through paid tickets.
