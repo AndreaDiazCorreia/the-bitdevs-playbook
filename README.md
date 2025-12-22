@@ -4,6 +4,8 @@
 [![Last Updated](https://img.shields.io/badge/last%20updated-December%202025-lightgrey)](https://btrust.tech/bitdevs)
 [![Contact](https://img.shields.io/badge/contact-builders@btrust.tech-green)](mailto:builders@btrust.tech)
 
+> **Status:** Initial release (v0.1.0). Actively in use by Btrust-supported BitDevs locations.  
+
 The BitDevs Playbook by [Btrust](https://www.btrust.tech/) is a comprehensive guide for organizers, sponsors, and partners involved in growing Bitcoin-only technical communities across the Global South, starting with Africa. It provides a framework for starting, operating, and sustaining BitDevs locations with consistent quality, transparency, and impact. 
 
 The playbook serves as:  
@@ -14,10 +16,10 @@ The playbook serves as:
 > As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem.
 
 ## How to Use This Playbook
-The playbook mirrors the lifecycle of a BitDevs location: setup, operations, quality control, and closure (if necessary). Each section includes steps, templates, and references. While reading the full playbook is recommended to understand how BitDevs locations operate as a cohesive network, the following guidance can help based on your role:  
+The playbook mirrors the lifecycle of a BitDevs location: setup, operations, quality control, and closure (if necessary). Each section includes steps, templates, and references. While reading the full playbook is recommended to understand how BitDevs locations operate as a cohesive network, the guidance below helps you get started based on your role.
 
 - **New Organizers:** Start with Section 2: [“Starting a BitDevs Location”](02-starting-a-bitdevs-location/01-setting-up-a-location) to learn how to set up a new location from scratch. Follow with Section 4: [“Quality Control”](04-quality-control/01-core-standards) for standards from day one. Then, read Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities) for team and personal development guidance.
-- **Active Locations:** Focus first on Section 3: [“Running a BitDevs Location”](03-running-a-bitdevs-location/01-meetup-planning-and-coordination) for operational guidance. Revisit Section 4; [“Quality Control”](04-quality-control/01-core-standards) regularly. Refer to Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities) to continue developing your team and skills.
+- **Active Locations:** Focus first on Section 3: [“Running a BitDevs Location”](03-running-a-bitdevs-location/01-meetup-planning-and-coordination) for operational guidance. Revisit Section 4: [“Quality Control”](04-quality-control/01-core-standards) regularly. Refer to Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities) to continue developing your team and skills.
 - **Sponsors and Supporters:** Refer to Section 7 (“Guide for Sponsors”) for funding models, accountability, and collaboration expectations.   
 - **Everyone:** Begin with Section 1: [“Introduction”](01-introduction/01-about-this-playbook) for foundational BitDevs principles, identity, and ethos.
 - **Annexes:** Contain templates, examples, and checklists referenced throughout the playbook for practical use.
@@ -91,15 +93,20 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 
 ## Contributors and Reviewers
 
-| Name                | Role                  | Affiliation                    | Github | Email                  |
-|--------------------|---------------------|-------------------------------|--------|-----------------------|
+| Name                | Role                  | Affiliation                           | Github                                            | Email                  |
+|--------------------|------------------------|---------------------------------------|---------------------------------------------------|------------------------|
 | Stephanie Titcombe  | Lead Author & Maintainer | Program & Operations Lead, Btrust | [@StephTitcombe](https://github.com/StephTitcombe) | [stephanie@btrust.tech](mailto:stephanie@btrust.tech) |
 
-| Name                | Role       | Affiliation               | Github 
-|--------------------|------------|--------------------------|--------------|
-| Abubakar Nur Khalil | Reviewer   | CEO, Btrust              | [@Zero-1729](https://github.com/Zero-1729)
-| Simon Njeru         | Reviewer   | Lead Organizer, BitDevs Nairobi | [@xyephy](https://github.com/xyephy)
-| Tobechi Chukwuleta  | Reviewer   | Lead Organizer, BitDevs Lagos  | [@TChukwuleta](https://github.com/TChukwuleta)
+| Name                | Role                  | Affiliation                           | Github 
+|--------------------|------------------------|---------------------------------------|---------------------------------------------------|
+| Abubakar Nur Khalil | Reviewer              | CEO, Btrust                           | [@Zero-1729](https://github.com/Zero-1729)
+| Simon Njeru         | Reviewer              | Lead Organizer, BitDevs Nairobi       | [@xyephy](https://github.com/xyephy)
+| Tobechi Chukwuleta  | Reviewer              | Lead Organizer, BitDevs Lagos         | [@TChukwuleta](https://github.com/TChukwuleta)
+
+## Contributing
+
+Suggestions, corrections, and improvements are welcome.  
+Please submit feedback via email [builders@btrust.tech](mailto:builders@btrust.tech) or open a pull request following the repository contribution guidelines. Proposals will be reviewed collaboratively with organizers, sponsors, and regional leads before inclusion in future versions.
 
 ## Document Control
 
@@ -113,9 +120,6 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 - Minor updates: Every 6 months  
 - Major review: Every 12 months  
 - Mid-cycle revisions if critical updates occur  
-
-### Feedback
-All feedback and suggested edits should be submitted to [builders@btrust.tech](mailto:builders@btrust.tech). Proposals will be reviewed collaboratively with organizers, sponsors, and regional leads before inclusion in future versions.
 
 ### Distribution
 This Playbook is maintained digitally for:  
