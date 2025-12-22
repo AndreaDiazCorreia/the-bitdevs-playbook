@@ -1,6 +1,6 @@
 # Choosing Topics and Formats
 
-A BitDevs meetup is not a lecture or panel; it’s a collaborative technical discussion. Learning happens through dialogue and analysis, not one-way presentations.
+A BitDevs meetup is not a lecture or panel; it’s a collaborative technical discussion. Learning happens through dialogue and analysis, not one-way presentations. 
 
 ## Choosing Topics
 
