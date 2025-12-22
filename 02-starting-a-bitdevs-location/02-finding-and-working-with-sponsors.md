@@ -37,4 +37,4 @@ To protect the integrity and independence of BitDevs, all sponsorships must foll
 - Report outcomes after each meetup, even when the sponsor does not explicitly require reporting.
 - Diversify funding sources where possible to avoid overreliance on a single entity.
 
-*(See Annex E: Sponsorship Proposal Template.)*
+*(See [Annex E: Sponsorship Proposal Template.](08-annexes.md))*
