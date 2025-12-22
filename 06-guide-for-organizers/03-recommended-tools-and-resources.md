@@ -5,7 +5,7 @@ The right tools and resources help organizers run efficient meetups, stay organi
 ## Event and Communication Tools
 
 Recommended tools include:
-- [Clooza](https://clooza.com/), [Luma](https://lu.ma/), or [Evento](https://evento.so/) for event registration and attendance tracking.
+- [Clooza](https://clooza.com/), [Evento](https://evento.so/) or [Luma](https://lu.ma/) for event registration and attendance tracking.
 - Telegram, WhatsApp, Signal, or Discord for internal coordination and community engagement.
 - Nostr and X (formerly Twitter) for announcements, event recaps, and public communication.
 - GitHub or Google Drive for file sharing, reports, and documentation.
