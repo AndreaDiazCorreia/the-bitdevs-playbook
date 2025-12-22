@@ -1,5 +1,9 @@
 # The BitDevs Playbook v0.1.0
 
+[![Version](https://img.shields.io/badge/version-0.1.0-blue)](https://btrust.tech/bitdevs) 
+[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%202025-lightgrey)](https://btrust.tech/bitdevs)
+[![Contact](https://img.shields.io/badge/contact-builders@btrust.tech-green)](mailto:builders@btrust.tech)
+
 The BitDevs Playbook by [Btrust](https://www.btrust.tech/) is a comprehensive guide for organizers, sponsors, and partners involved in growing Bitcoin-only technical communities across the Global South, starting with Africa. It provides a framework for starting, operating, and sustaining BitDevs locations with consistent quality, transparency, and impact
 
 The playbook serves as:  
