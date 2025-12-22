@@ -27,4 +27,4 @@ Reports should be submitted **monthly**, even if a meetup was postponed, with ex
 - Keep communication Bitcoin-focused, non-commercial, and aligned with BitDevs’ technical ethos.
 - Avoid branding that suggests affiliation with companies unless it is part of a transparent sponsorship acknowledgment.
 
-Running a BitDevs location is an ongoing commitment to consistency, transparency, and technical excellence. Organizers who maintain clear planning routines, foster discussion-based learning, and actively engage their communities build lasting, self-sustaining ecosystems of developers and builders.
+Running a BitDevs location is an ongoing commitment to consistency, transparency, and technical excellence. Organizers who maintain clear planning routines, foster discussion-based learning, and actively engage their communities build lasting, self-sustaining ecosystems of developers and builders. 
