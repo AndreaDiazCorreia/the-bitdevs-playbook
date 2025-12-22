@@ -7,7 +7,7 @@ Communities evolve, and many paused locations eventually return stronger, with n
 If your location was previously paused or closed, reopening should follow the same intentional standards as starting fresh, while building on past experience.
 
 - **Refer Back to Setup Guidance**  
-  Review *Starting a BitDevs Location* to realign with the core purpose, principles, and operational expectations.
+  Review [*Starting a BitDevs Location*](02-starting-a-bitdevs-location/01-setting-up-a-location.md) to realign with the core purpose, principles, and operational expectations.
 
 - **Assess Local Demand**  
   Confirm that a technical Bitcoin community still exists or can realistically be revived in your area through outreach, conversations, or pilot sessions.
@@ -34,4 +34,4 @@ Btrust reviews reapplications based on readiness, prior engagement, lessons lear
 
 This process ensures that returning locations restart with improved structure, renewed capacity, and insights gained from earlier experience.
 
-*(See: Annex K: Location Closure and Handover Checklist.)*
+*(See: [Annex K: Location Closure and Handover Checklist.](08-annexes.md))*
