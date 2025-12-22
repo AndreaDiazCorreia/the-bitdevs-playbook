@@ -5,10 +5,9 @@ The BitDevs Playbook by [Btrust](https://www.btrust.tech/) is a comprehensive gu
 It serves as:  
 - A manual for organizers setting up or managing BitDevs locations.  
 - A reference for sponsors and partners to understand processes, reporting, and accountability standards.  
-- A resource for for participants and community members to align with the broader movement.   
+- A resource for for participants and community members to align with the broader movement.
 
-As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem.  
----
+> As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem.  
 
 ## How to Use This Playbook
 The playbook is divided into sections that mirror the lifecycle of a BitDevs location, from setup to operations, quality control, and closure if necessary. Each section includes steps, templates, and references. While everyone should read the entire playbook to understand how BitDevs locations operate as a cohesive network, the sections below provide a streamlined way to get started based on your role: 
@@ -18,7 +17,6 @@ The playbook is divided into sections that mirror the lifecycle of a BitDevs loc
 - **Sponsors and Supporters:** Refer to Section 7 (“Guide for Sponsors”) for funding models, accountability, and collaboration expectations.   
 - **Everyone:** Begin with Section 1 (“Introduction”) to understand BitDevs principles, identity, and ethos.
 - **Annexes:** Contain templates, examples, and checklists referenced throughout the playbook for practical use.
----
 
 ## Who This Playbook Is For
 - **BitDevs Organizers**: Lead or co-lead local locations.  
@@ -28,10 +26,6 @@ The playbook is divided into sections that mirror the lifecycle of a BitDevs loc
 - **Participants and Developers**: Understand and contribute effectively to the community.  
 
 > Anyone planning, funding, supporting, or attending BitDevs meetups can benefit from this guide.
----
-
-<details>
-<summary><strong>Table of Contents (Clickable)</strong></summary>
 
 ## Table of Contents
 
@@ -90,12 +84,6 @@ The playbook is divided into sections that mirror the lifecycle of a BitDevs loc
 - [Annex I: Starting a BitDevs Checklist](08-annexes/annex-i-starting-a-bitdevs-checklist.md)  
 - [Annex J: Quality Control Templates](08-annexes/annex-j-quality-control-templates.md)  
 - [Annex K: Location Closure Checklist](08-annexes/annex-k-location-closure-checklist.md)  
-<details>
----
-## Contacts
-  
-<details>
-<summary><strong>Summary and Contacts</strong></summary>
 
 The playbook consolidates guidance, values, and practices for organizing credible, independent, and collaborative Bitcoin developer communities.  
 
@@ -103,10 +91,6 @@ The playbook consolidates guidance, values, and practices for organizing credibl
 - Email: [builders@btrust.tech](mailto:builders@btrust.tech)  
 - Website: [https://btrust.tech/bitdevs](https://btrust.tech/bitdevs)  
 </details>
----
-
-<details>
-<summary><strong>Contributors and Reviewers</strong></summary>
 
 ## Contributors and Reviewers
 
@@ -116,22 +100,9 @@ The playbook consolidates guidance, values, and practices for organizing credibl
 ### Reviewers and Contributors
 - **Abubakar Nur Khalil** — CEO, Btrust  
 - **Simon Njeru** — Lead Organizer, BitDevs Nairobi  
-- **Chukwuleta Tobechi** — Lead Organizer, BitDevs Lagos  
-
-**Lead Author:**  
-- Stephanie Titcombe — Program & Operations Lead, Btrust  
-
-**Reviewers and Contributors:**  
-- Abubakar Nur Khalil — CEO, Btrust  
-- Simon Njeru — Lead Organizer, BitDevs Nairobi  
-- Chukwuleta Tobechi — Lead Organizer, BitDevs Lagos
-</details>
----
+- **Tobechi Chukwuleta** — Lead Organizer, BitDevs Lagos  
 
 ## Document Control
-
-<details>
-<summary><strong>Document Control</strong></summary>
 
 ### Version History
 | Version | Date         | Description                        | Author / Editor       |
@@ -154,4 +125,3 @@ The Playbook is maintained as a digital document accessible to:
 - Educational and technical collaborators in the Bitcoin ecosystem
 
 Printed copies, if produced, should clearly state the version and date on the cover page.
-</details>
