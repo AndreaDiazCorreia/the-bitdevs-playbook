@@ -12,7 +12,7 @@ Sponsors can fund or provide in-kind support for legitimate operational needs th
 - Design and printing of neutral event materials (signage, posters, etc.).
 - Technical workshops or travel costs for volunteer speakers, if relevant.
 
-> These expenses must always align with BitDevs’ non-commercial, Bitcoin-only identity.
+> These expenses must always align with BitDevs’ non-commercial, Bitcoin-only identity. 
 
 ## Note on Coverage
 
