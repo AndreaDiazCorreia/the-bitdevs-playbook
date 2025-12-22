@@ -25,4 +25,4 @@ The strength of a BitDevs location lies in its people: engaged, curious particip
 
 - Supplement monthly meetups with study circles, hack sessions, or workshops to maintain engagement.
 - Collaborate with other local locations for cross-city discussions or shared sessions.
-- For Btrust-sponsored locations: participate in the monthly organizers’ call to share lessons and stay aligned with network-wide activities.
+- For Btrust-sponsored locations: participate in the monthly organizers’ call to share lessons and stay aligned with network-wide activities. 
