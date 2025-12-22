@@ -1,6 +1,6 @@
 # Closing a BitDevs Location
 
-Even the most active and well-run locations may eventually reach a point where operations need to pause, transition, or close entirely. Closing a location is not a failure; it is part of the natural lifecycle of community building. When done responsibly, it preserves credibility, protects resources, and keeps the door open for future revival.
+Even the most active and well-run locations may eventually reach a point where operations need to pause, transition, or close entirely. Closing a location is not a failure; it is part of the natural lifecycle of community building. When done responsibly, it preserves credibility, protects resources, and keeps the door open for future revival. 
 
 This section outlines how to identify when closure is appropriate, the process for managing it transparently, and the steps for possible reactivation later.
 
