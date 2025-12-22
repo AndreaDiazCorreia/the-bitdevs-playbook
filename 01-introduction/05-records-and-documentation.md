@@ -10,7 +10,7 @@ Every location’s main folder must include the following two core subfolders:
 
 This folder contains documentation and summaries for each monthly meetup. Each entry should include:
 
-- A completed event report using the standard template *(see Annex C: Event Report Format)*  
+- A completed event report using the standard template *(see [Annex C: Event Report Format](08-annexes.md))*  
 - Key takeaways from the session  
 - Photos, if available and shared with consent  
 - Agenda, speaker list, and attendance highlights  
@@ -26,7 +26,7 @@ This folder contains documentation and summaries for each monthly meetup. Each e
 
 This folder is used to track all financial activity related to meetup operations. Each entry must include:
 
-- A completed finance report using the standard template *(see Annex D: Finance Report Format)*  
+- A completed finance report using the standard template *(see [Annex D: Finance Report Format](08-annexes.md))*  
 - Receipts and scanned invoices for every expense  
   - These should be uploaded in a separate folder and linked in the report  
 - The BTC address used for disbursement or reimbursement  
