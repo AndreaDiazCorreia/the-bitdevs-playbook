@@ -17,8 +17,8 @@ Running a BitDevs location comes with inevitable challenges, including fluctuati
   Reassess topic selection, invite experienced guest moderators, or draw from global BitDevs resources to restore depth. Refer to resources such as https://delvingbitcoin.org/ and https://bitcoinops.org/ for current and historical Bitcoin technical discussions.
 
 - **Community Conflicts**  
-  Address concerns privately and promptly. Reinforce the Code of Conduct, mediate disputes in good faith, and escalate serious or unresolved issues to Btrust or senior organizers for neutral guidance when necessary.
+  Address concerns privately and promptly. Reinforce the [Code of Conduct](02-community-conduct-and-ethics.md), mediate disputes in good faith, and escalate serious or unresolved issues to Btrust or senior organizers for neutral guidance when necessary.
 
 BitDevs thrives on transparency, resilience, and collaboration. Every challenge presents an opportunity to refine systems, strengthen community bonds, and uphold the standards that make the network globally respected.
 
-(See: Annex J: Quality Control and Evaluation Templates.)
+(See: [Annex J: Quality Control and Evaluation Templates.](08-annexes.md))
