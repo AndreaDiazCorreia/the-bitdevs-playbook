@@ -2,7 +2,7 @@
 
 ## The Role of Sustainable Sponsorship
 
-Short-term funding can help locations start, but long-term partnerships help them thrive. The most impactful sponsors focus on continuity, ensuring locations have stability to grow organically.
+Short-term funding can help locations start, but long-term partnerships help them thrive. The most impactful sponsors focus on continuity, ensuring locations have stability to grow organically. 
 
 **Effective long-term sponsors:**
 
@@ -16,7 +16,7 @@ Sponsorship is most effective when aligned with a shared mission: to strengthen 
 
 - Supporting regional collaboration and shared events.
 - Providing mentorship and learning resources for organizers.
-- Helping locations connect with the wider developer ecosystem.
+- Helping locations connect with the wider developer ecosystem. 
 
 > For Btrust, this vision translates into building a network of autonomous, technically grounded communities across the Global South, united by open knowledge and shared values, not brand influence. 
 
