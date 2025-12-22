@@ -35,7 +35,7 @@ Current recognized and Btrust-supported locations include:
 
 This network continues to grow as more cities across Africa step forward to build, learn, and lead within the global Bitcoin community.
 
-*(See: Annex B – BitDevs Map Across Africa.)*
+*(See: [Annex B – BitDevs Map Across Africa.](08-annexes.md))*
 
 ## How We Communicate
 
