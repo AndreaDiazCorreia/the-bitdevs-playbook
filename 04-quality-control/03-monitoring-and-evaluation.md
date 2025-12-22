@@ -1,6 +1,6 @@
 # Monitoring and Evaluation
 
-To sustain excellence, BitDevs locations are encouraged to regularly assess their performance and document progress. Monitoring and evaluation are not about enforcement, but about learning, continuous improvement, and scaling what works across the network.
+To sustain excellence, BitDevs locations are encouraged to regularly assess their performance and document progress. Monitoring and evaluation are not about enforcement, but about learning, continuous improvement, and scaling what works across the network. 
 
 ## Self-Monitoring Practices
 
