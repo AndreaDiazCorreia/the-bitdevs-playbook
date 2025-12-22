@@ -1,4 +1,4 @@
-# Accountability and Collaboration
+# Accountability and Collaboration 
 
 Maintaining a healthy sponsor-organizer relationship depends on transparency, clear communication, and mutual accountability.
 
@@ -12,7 +12,7 @@ Transparency maintains community credibility and sponsor trust. All sponsorship 
 - Submit Meetup Reports summarizing attendance, discussions, and feedback.
 - Keep communication open between organizers and sponsors regarding any adjustments.
 
-> Sponsors should expect and encourage lean spending: the focus is on consistency, not extravagance.
+> Sponsors should expect and encourage lean spending: the focus is on consistency, not extravagance. 
 
 ## Regular Communication
 
