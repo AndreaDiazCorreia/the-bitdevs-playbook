@@ -2,8 +2,6 @@
 
 Starting a BitDevs location is about building a sustainable, open community that values learning, collaboration, and local participation. This section outlines the key steps required to establish a new location, from assessing community interest and forming your organizing team to hosting your first event and securing long-term support.
 
---
-
 # Setting Up a Location
 
 Launching a BitDevs location begins with understanding why it exists: to create a neutral, Bitcoin-only space where developers and builders can learn, debate, and collaborate on Bitcoin’s technical progress. Before you begin, confirm that your city has a **genuine, active, or emerging developer interest** in Bitcoin. This can be assessed through informal polls, community events, developer meetups, or conversations with local technical groups.
