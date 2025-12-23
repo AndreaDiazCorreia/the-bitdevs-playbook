@@ -5,6 +5,8 @@
 [![Contact](https://img.shields.io/badge/contact-builders@btrust.tech-green)](mailto:builders@btrust.tech)
 
 > **Status:** Initial release (v0.1.0). Actively in use by Btrust-supported BitDevs locations.
+> 
+> As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem.
 
 The BitDevs Playbook by [Btrust](https://www.btrust.tech/) is a comprehensive guide for organizers, sponsors, and partners involved in growing Bitcoin-only technical communities across the Global South, starting with Africa. It provides a framework for starting, operating, and sustaining BitDevs locations with consistent quality, transparency, and impact. 
 
@@ -13,7 +15,6 @@ The playbook serves as:
 - A reference for sponsors and partners to understand processes, reporting, and accountability standards.  
 - A resource for participants and community members to align with the broader BitDevs movement.
 
-> As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem.
 
 ## How to Use This Playbook
 The playbook mirrors the lifecycle of a BitDevs location: setup, operations, quality control, and closure (if necessary). Each section includes steps, templates, and references. While reading the full playbook is recommended to understand how BitDevs locations operate as a cohesive network, the guidance below helps you get started based on your role.
@@ -25,13 +26,13 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 - **Annexes:** Contain templates, examples, and checklists referenced throughout the playbook for practical use.
 
 ## Who This Playbook Is For
+> Anyone planning, funding, supporting, or attending BitDevs meetups can benefit from this guide.
+
 - **BitDevs Organizers**: Lead or co-lead local locations.  
 - **Organizing Teams**: Support logistics, communication, and technical content.  
 - **Btrust Team Members**: Oversee sponsorship, quality assurance, and reporting.  
 - **Sponsors or Partners**: Support grassroots technical initiatives.  
 - **Participants and Developers**: Understand and contribute effectively to the community.  
-
-> Anyone planning, funding, supporting, or attending BitDevs meetups can benefit from this guide.
 
 ## Table of Contents
 
