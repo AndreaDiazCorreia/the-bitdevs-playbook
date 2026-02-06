@@ -20,7 +20,6 @@ Current recognized and Btrust-supported locations include:
 
 ### West Africa (Francophone)
 - [BitDevs Cotonou](http://bitdevscotonou.org/) – Benin  
-- [BitDevs Douala](https://bitdevsdla.org/) – Cameroon  
 
 ### East Africa (Anglophone)
 - [BitDevs Nairobi](https://www.bitdevsnbo.org/) – Kenya  
@@ -28,7 +27,8 @@ Current recognized and Btrust-supported locations include:
 
 ### Central Africa (Francophone)
 - [BitDevs Goma](https://bitdevsgoma.org/) – Democratic Republic of Congo  
-- [BitDevs Gitega](https://bitdevsgtga.org/) – Burundi  
+- [BitDevs Gitega](https://bitdevsgtga.org/) – Burundi
+- [BitDevs Douala](https://bitdevsdla.org/) – Cameroon  
 
 ### Southern Africa (Indian Ocean)
 - [BitDevs Mauritius](https://www.bitdevsmauritius.org/) – Mauritius  
