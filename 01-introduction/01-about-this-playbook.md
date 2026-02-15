@@ -1,34 +1,34 @@
-# About This Playbook
+# Acerca de Este Manual
 
-## Purpose of This Playbook
+## Propósito de Este Manual
 
-> **Note**: As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem. 
+> **Nota**: A medida que las ubicaciones de BitDevs crecen, mejoran y comparten nuevas lecciones, este manual evolucionará para reflejar estos conocimientos y fortalecer el ecosistema.
 
-The BitDevs Playbook by [Btrust](https://www.btrust.tech/) is a comprehensive guide for organizers, sponsors, and partners involved in growing Bitcoin-only technical communities across Africa. It provides a clear framework for how to start, operate, and sustain BitDevs locations, while outlining the principles, expectations, and standards that ensure every location runs with the same quality, transparency, and impact.
+El Manual de BitDevs por [Btrust](https://www.btrust.tech/), traducido por [Librería de Satoshi](https://libreriadesatoshi.com) y [b4os](https://b4os.dev), es una guía completa para organizadores, patrocinadores y colaboradores involucrados en el crecimiento de comunidades técnicas enfocadas exclusivamente en Bitcoin en países hispanohablantes. Proporciona un marco claro sobre cómo iniciar, operar y sostener ubicaciones de BitDevs, al mismo tiempo que establece los principios, expectativas y estándares que aseguran que cada ubicación funcione con la misma calidad, transparencia e impacto.
 
-This playbook serves as:
-- A manual for organizers setting up or managing BitDevs locations.
-- A reference for sponsors and partners to understand processes, reporting, and accountability standards.
-- A resource for community members who want to align with the broader BitDevs movement.
+Este manual sirve como:
+- Un manual para organizadores que establecen o gestionan ubicaciones de BitDevs.
+- Una referencia para patrocinadores y colaboradores para comprender los procesos, informes y estándares de responsabilidad.
+- Un recurso para miembros de la comunidad que desean alinearse con el movimiento BitDevs más amplio.
 
-## How to Use This Playbook
+## Cómo Usar Este Manual
 
-This playbook is divided into clear sections that mirror the complete lifecycle of a BitDevs location, from setup, to operations, quality control, and eventual closure (if necessary). While everyone involved should read the entire playbook to understand how BitDevs locations operate as a cohesive network, the sections below provide a streamlined way to get started based on your role:
+Este manual está dividido en secciones claras que reflejan el ciclo de vida completo de una ubicación de BitDevs, desde la configuración, hasta las operaciones, control de calidad y eventual cierre (si es necesario). Si bien todos los involucrados deberían leer el manual completo para comprender cómo las ubicaciones de BitDevs operan como una red cohesiva, las siguientes secciones proporcionan una forma simplificada de comenzar según tu rol:
 
-- **New Organizers:** Start with Section 2: [“Starting a BitDevs Location”](02-starting-a-bitdevs-location/01-setting-up-a-location.md) to learn how to set up a new location from scratch. Follow with Section 4: [“Quality Control”](04-quality-control/01-core-standards.md) for standards from day one. Then, read Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities.md) for team and personal development guidance.
-- **Active Locations:** Focus first on Section 3: [“Running a BitDevs Location”](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md) for operational guidance. Revisit Section 4: [“Quality Control”](04-quality-control/01-core-standards.md) regularly. Refer to Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities.md) to continue developing your team and skills.
-- **Sponsors and Supporters:** Refer to Section 7 (“Guide for Sponsors”) for funding models, accountability, and collaboration expectations.   
-- **Everyone:** Begin with Section 1: [“Introduction”](01-introduction/01-about-this-playbook.md) for foundational BitDevs principles, identity, and ethos.
-- **Annexes:** Contain templates, examples, and checklists referenced throughout the playbook for practical use.
+- **Nuevos Organizadores:** Comienza con la Sección 2: ["Iniciar una Ubicación de BitDevs"](02-starting-a-bitdevs-location/01-setting-up-a-location.md) para aprender cómo configurar una nueva ubicación desde cero. Continúa con la Sección 4: ["Control de Calidad"](04-quality-control/01-core-standards.md) para conocer los estándares desde el primer día. Luego, lee la Sección 6: ["Guía para Organizadores"](06-guide-for-organizers/01-roles-and-responsibilities.md) para orientación sobre desarrollo de equipo y personal.
+- **Ubicaciones Activas:** Enfócate primero en la Sección 3: ["Operar una Ubicación de BitDevs"](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md) para guía operacional. Revisa la Sección 4: ["Control de Calidad"](04-quality-control/01-core-standards.md) regularmente. Consulta la Sección 6: ["Guía para Organizadores"](06-guide-for-organizers/01-roles-and-responsibilities.md) para continuar desarrollando tu equipo y habilidades.
+- **Patrocinadores y Colaboradores:** Consulta la Sección 7 ("Guía para Patrocinadores") para modelos de financiamiento, responsabilidad y expectativas de colaboración.
+- **Todos:** Comienza con la Sección 1: ["Introducción"](01-introduction/01-about-this-playbook.md) para conocer los principios fundamentales, identidad y valores de BitDevs.
+- **Anexos:** Contienen plantillas, ejemplos y listas de verificación referenciadas a lo largo del manual para uso práctico.
 
-## Who This Playbook Is For
+## Para Quién Es Este Manual
 
-This playbook is designed for all contributors to the BitDevs ecosystem:
+Este manual está diseñado para todos los contribuidores al ecosistema BitDevs:
 
-- BitDevs Organizers: Individuals leading or co-leading local BitDevs locations.
-- Organizing Teams: Volunteers supporting logistics, communication, and technical content.
-- Btrust Team Members: Btrust Staff coordinating sponsorships, quality assurance, and reporting.
-- Sponsors or Partners: Organizations or individuals interested in supporting grassroots technical initiatives.
-- Participants and Developers: BitDevs attendees and community members who wish to better understand how the locations function and how they can contribute.
+- Organizadores de BitDevs: Individuos que lideran o co-lideran ubicaciones locales de BitDevs.
+- Equipos Organizadores: Voluntarios que apoyan la logística, comunicación y contenido técnico.
+- Miembros del Equipo Btrust: Personal de Btrust coordinando patrocinios, aseguramiento de calidad e informes.
+- Patrocinadores o Colaboradores: Organizaciones o individuos interesados en apoyar iniciativas técnicas de base.
+- Participantes y Desarrolladores: Asistentes a BitDevs y miembros de la comunidad que desean comprender mejor cómo funcionan las ubicaciones y cómo pueden contribuir.
 
-Anyone planning, funding, supporting, or attending BitDevs meetups can benefit from going through, understanding, and applying this guide. 
+Cualquier persona que planifique, financie, apoye o asista a reuniones de BitDevs puede beneficiarse de revisar, comprender y aplicar esta guía.
