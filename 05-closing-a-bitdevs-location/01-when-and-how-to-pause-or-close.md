@@ -1,55 +1,55 @@
-# Closing a BitDevs Location
+# Cerrar una Ubicación de BitDevs
 
-Even the most active and well-run locations may eventually reach a point where operations need to pause, transition, or close entirely. Closing a location is not a failure; it is part of the natural lifecycle of community building. When done responsibly, it preserves credibility, protects resources, and keeps the door open for future revival. 
+Incluso las ubicaciones más activas y bien gestionadas pueden eventualmente llegar a un punto donde las operaciones necesitan pausarse, transicionar o cerrarse completamente. Cerrar una ubicación no es un fracaso; es parte del ciclo de vida natural de la construcción de comunidades. Cuando se hace de manera responsable, preserva la credibilidad, protege los recursos y mantiene la puerta abierta para un posible resurgimiento futuro.
 
-This section outlines how to identify when closure is appropriate, the process for managing it transparently, and the steps for possible reactivation later.
+Esta sección describe cómo identificar cuándo el cierre es apropiado, el proceso para gestionarlo de manera transparente y los pasos para una posible reactivación posterior.
 
-# When and How to Pause or Close a Location
+# Cuándo y Cómo Pausar o Cerrar una Ubicación
 
-A BitDevs location may need to pause or close for various valid reasons. The key is to do so intentionally and responsibly, with clear communication to your community and any supporting partners.
+Una ubicación de BitDevs puede necesitar pausarse o cerrarse por varias razones válidas. La clave es hacerlo de manera intencional y responsable, con comunicación clara a tu comunidad y cualquier colaborador de apoyo.
 
-## Common Reasons for Pause or Closure
+## Razones Comunes para Pausa o Cierre
 
-- **Inactivity or Low Engagement**  
-  A sustained decline in attendance or participation over several months. What counts as “low” will vary by location; organizers should compare against their usual turnout. For example, if attendance drops noticeably below typical numbers for three consecutive months, it may indicate low engagement.
+- **Inactividad o Bajo Compromiso**
+  Un declive sostenido en asistencia o participación durante varios meses. Lo que cuenta como "bajo" variará según la ubicación; los organizadores deberían comparar contra su asistencia habitual. Por ejemplo, si la asistencia cae notablemente por debajo de los números típicos durante tres meses consecutivos, puede indicar bajo compromiso.
 
-- **Leadership or Team Transition**  
-  Departure of core organizers without successors ready to continue operations.
+- **Transición de Liderazgo o Equipo**
+  Partida de organizadores principales sin sucesores listos para continuar las operaciones.
 
-- **Resource or Funding Limitations**  
-  Challenges maintaining consistent venues, logistics, or financial support.
+- **Limitaciones de Recursos o Financiamiento**
+  Desafíos para mantener lugares, logística o apoyo financiero consistentes.
 
-- **Strategic Pause**  
-  A temporary suspension to restructure, onboard new organizers, or reset the direction of the community.
+- **Pausa Estratégica**
+  Una suspensión temporal para reestructurar, incorporar nuevos organizadores o reorientar la dirección de la comunidad.
 
-## Pause or Closure Process (General)
+## Proceso de Pausa o Cierre (General)
 
-- **Internal Discussion**  
-  The organizing team should meet to review challenges, confirm the decision, and explore alternatives such as recruiting new volunteers or merging with a nearby BitDevs location.
+- **Discusión Interna**
+  El equipo organizador debería reunirse para revisar desafíos, confirmar la decisión y explorar alternativas como reclutar nuevos voluntarios o fusionarse con una ubicación cercana de BitDevs.
 
-- **Community Notification**  
-  Inform your members through your regular communication channels (website, Telegram, Nostr, or X). Be transparent: acknowledge contributions, briefly share reasons, and express openness to future revival.
+- **Notificación a la Comunidad**
+  Informa a tus miembros a través de tus canales regulares de comunicación (sitio web, Telegram, Nostr o X). Sé transparente: reconoce contribuciones, comparte brevemente las razones y expresa apertura a un resurgimiento futuro.
 
-- **Documentation and Handover**  
-  Compile all materials, including meetup summaries, attendance data, photos, and reports, into the shared location folder to preserve institutional memory.
+- **Documentación y Traspaso**
+  Compila todos los materiales, incluyendo resúmenes de reuniones, datos de asistencia, fotos e informes, en la carpeta compartida de la ubicación para preservar la memoria institucional.
 
-- **Responsible Wind-down**  
-  Cancel any upcoming events, close pending sponsorship requests, and formally conclude engagements with venues, partners, or collaborators.
+- **Cierre Responsable**
+  Cancela cualquier evento próximo, cierra solicitudes de patrocinio pendientes y concluye formalmente compromisos con lugares, colaboradores o patrocinadores.
 
-## For Btrust-Sponsored Locations
+## Para Ubicaciones Patrocinadas
 
-If your location is under Btrust sponsorship, you must notify the Btrust team at least one month in advance before pausing or closing. This ensures proper documentation, support, and closure of all financial and reporting processes.
+Si tu ubicación opera bajo patrocinio formal, generalmente debes notificar a tu patrocinador con al menos un mes de anticipación antes de pausar o cerrar. Esto asegura documentación apropiada, apoyo y cierre de todos los procesos financieros y de reporte.
 
-### Steps to Notify and Close (Btrust Process)
+### Pasos para Notificar y Cerrar (Ubicaciones Patrocinadas)
 
-- **Written Notification**  
-  Submit a short statement explaining the decision, reasons, and expected date of pause or closure.
+- **Notificación Escrita**
+  Envía una declaración breve explicando la decisión, razones y fecha esperada de pausa o cierre.
 
-- **Exit Call (Optional)**  
-  A brief discussion with the Btrust team may be scheduled to review lessons learned and explore possible transitions or future reopening.
+- **Llamada de Salida (Opcional)**
+  Una breve discusión con el equipo del patrocinador puede ser programada para revisar lecciones aprendidas y explorar posibles transiciones o reapertura futura.
 
-- **Closure Checklist**  
-  Complete all final reports, reconcile expenses, and confirm that documentation is accurate and up to date.
+- **Lista de Verificación de Cierre**
+  Completa todos los reportes finales, reconcilia gastos y confirma que la documentación esté precisa y actualizada.
 
-- **Official Confirmation**  
-  Once reviewed, Btrust will mark the location as *paused* or *inactive*, keeping it listed for potential future reactivation.
+- **Confirmación Oficial**
+  Una vez revisado, el patrocinador marcará la ubicación como *pausada* o *inactiva*, manteniéndola listada para una posible reactivación futura.
