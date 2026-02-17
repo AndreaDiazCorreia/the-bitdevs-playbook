@@ -1,38 +1,40 @@
-# Annexes
+# Anexos
 
-This section compiles all supplementary materials referenced throughout the Playbook. Each annex provides templates, examples, or checklists to help organizers and sponsors implement the guidance outlined in earlier sections. These documents can be adapted locally, as long as they remain aligned with the Playbook’s principles.
+> **Nota**: Esta sección se encuentra en desarrollo (WIP). Los enlaces y plantillas actuales corresponden principalmente a recursos de Btrust para ubicaciones en África. La adaptación de estos materiales para Latinoamérica y España está pendiente.
 
-All annexes are living resources. Updates and contributions are welcome as locations grow and new best practices emerge.
+Esta sección recopila todos los materiales complementarios referenciados a lo largo del Playbook. Cada anexo proporciona plantillas, ejemplos o listas de verificación para ayudar a organizadores y patrocinadores a implementar la orientación descrita en las secciones anteriores. Estos documentos pueden adaptarse localmente, siempre que se mantengan alineados con los principios del Playbook.
 
-## Annex A: [BitDevs Guide](https://docs.google.com/document/d/1zVvExmksH5Gd0mfIKpDxmXJ4mG7n50OVUL5F2SW9o8M/edit?usp=sharing)
-A quick-reference summary of BitDevs principles, formats, and best practices for new and existing organizers.
+Todos los anexos son recursos vivos. Las actualizaciones y contribuciones son bienvenidas a medida que las ubicaciones crecen y surgen nuevas mejores prácticas.
 
-## Annex B: [BitDevs Map Across Africa](https://www.btrust.tech/bitdevs)
-A repository of active and emerging BitDevs locations across Africa, including city locations and contact links. 
+## Anexo A: [Guía de BitDevs](https://docs.google.com/document/d/1zVvExmksH5Gd0mfIKpDxmXJ4mG7n50OVUL5F2SW9o8M/edit?usp=sharing)
+Un resumen de referencia rápida de los principios, formatos y mejores prácticas de BitDevs para organizadores nuevos y existentes.
 
-## Annex C: [Event Report Format](https://docs.google.com/document/d/1H2eXK1MKwqqsYynbqeoioYN1YRVSXNLw0PmBgR9JrnE/edit?usp=sharing)
-A standard template for documenting each meetup: attendance, discussion summaries, and outcomes. 
+## Anexo B: [Mapa de BitDevs en África](https://www.btrust.tech/bitdevs)
+Un repositorio de ubicaciones de BitDevs activas y emergentes en África, incluyendo ciudades y enlaces de contacto.
 
-## Annex D: [Finance Report Format](https://docs.google.com/spreadsheets/d/1jbelJZmdm849YOVvL8ULKC3b9jS8P2icRnPDHsEx7E8/edit?usp=sharing)
-Template for recording and reconciling expenses related to event logistics and sponsorship support (post-meetup).
+## Anexo C: [Formato de Reporte de Evento](https://docs.google.com/document/d/1H2eXK1MKwqqsYynbqeoioYN1YRVSXNLw0PmBgR9JrnE/edit?usp=sharing)
+Una plantilla estándar para documentar cada reunión: asistencia, resúmenes de discusión y resultados.
 
-## Annex E: Sponsorship Proposal Template (WIP)
-A customizable proposal format for approaching potential sponsors and partners.
+## Anexo D: [Formato de Reporte Financiero](https://docs.google.com/spreadsheets/d/1jbelJZmdm849YOVvL8ULKC3b9jS8P2icRnPDHsEx7E8/edit?usp=sharing)
+Plantilla para registrar y conciliar gastos relacionados con la logística del evento y el apoyo de patrocinio (post-reunión).
 
-## Annex F: Monthly Organizer Check-in Template (WIP)
-A guide for structuring regular progress updates between organizers and sponsors.
+## Anexo E: Plantilla de Propuesta de Patrocinio (WIP)
+Un formato de propuesta personalizable para acercarse a potenciales patrocinadores y colaboradores.
 
-## Annex G: [Budget Request Template](https://docs.google.com/spreadsheets/d/1nzGZ-2H9cPR5yUIJ6V7TsfZDAR7C2ih6T7FABnlKfGw/edit?usp=drive_link)
-A standard template for planning, submitting, and tracking funding requests for BitDevs meetups and activities (pre-meetup). 
+## Anexo F: Plantilla de Reunión Periódica de Seguimiento con Organizadores (WIP)
+Una guía para estructurar actualizaciones regulares de progreso entre organizadores y patrocinadores.
 
-## Annex H: [Expense Protocol](https://docs.google.com/document/d/138cgJsNjLhnpAoNpQYbF9VB5BC1-IMBZ/edit?usp=drive_link&ouid=114127853284975071660&rtpof=true&sd=true)
-Guidelines outlining how to manage, record, and report expenses in line with sponsorship and accountability standards. 
+## Anexo G: [Plantilla de Solicitud de Presupuesto](https://docs.google.com/spreadsheets/d/1nzGZ-2H9cPR5yUIJ6V7TsfZDAR7C2ih6T7FABnlKfGw/edit?usp=drive_link)
+Una plantilla estándar para planificar, presentar y dar seguimiento a solicitudes de financiamiento para reuniones y actividades de BitDevs (pre-reunión).
 
-## Annex I: [Starting a BitDevs Checklist](https://docs.google.com/document/d/1-x_tDt-EooRpJnkiooJrOVl9nsD25T6h4CXIsuNxPz0/edit?usp=sharing)
-Step-by-step checklist to guide organizers through the setup and approval process of a new BitDevs location (specific to Btrust-sponsored locations). 
+## Anexo H: [Protocolo de Gastos](https://docs.google.com/document/d/138cgJsNjLhnpAoNpQYbF9VB5BC1-IMBZ/edit?usp=drive_link&ouid=114127853284975071660&rtpof=true&sd=true)
+Directrices que describen cómo gestionar, registrar y reportar gastos en línea con los estándares de patrocinio y rendición de cuentas.
 
-## Annex J: Quality Control and Evaluation Templates (WIP)
-Tools and sample forms for self-assessment, peer review, and sponsor evaluation of location performance.
+## Anexo I: [Lista de Verificación para Iniciar un BitDevs](https://docs.google.com/document/d/1-x_tDt-EooRpJnkiooJrOVl9nsD25T6h4CXIsuNxPz0/edit?usp=sharing)
+Lista de verificación paso a paso para guiar a los organizadores a través del proceso de configuración y aprobación de una nueva ubicación de BitDevs (específica para ubicaciones patrocinadas por Btrust).
 
-## Annex K: Location Closure and Handover Checklist (WIP)
-Detailed guide to help organizers pause, close, or transition locations responsibly while maintaining proper documentation.
+## Anexo J: Plantillas de Control de Calidad y Evaluación (WIP)
+Herramientas y formularios de ejemplo para autoevaluación, revisión entre pares y evaluación del desempeño de la ubicación por parte del patrocinador.
+
+## Anexo K: Lista de Verificación de Cierre y Traspaso de Ubicación (WIP)
+Guía detallada para ayudar a los organizadores a pausar, cerrar o transicionar ubicaciones de manera responsable mientras se mantiene la documentación adecuada.
