@@ -116,7 +116,7 @@ El manual refleja el ciclo de vida de una ubicación de BitDevs: configuración,
 | Andrea Diaz Correia | Traductora           | Organizadora Principal, BitDevs Buenos Aires | [@AndreaDiazCorreia](https://github.com/AndreaDiazCorreia)
 
 **Patrocinadores de la versión en español:**
-- [Librería de Satoshi](https://libreriasatoshi.com/)
+- [Librería de Satoshi](https://libreriadesatoshi.com/)
 - [b4os](https://b4os.dev/)
 
 Sponsors de BitDevs en Latinoamérica, apoyando el crecimiento de comunidades técnicas de Bitcoin en la región hispanohablante.
