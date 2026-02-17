@@ -1,38 +1,40 @@
-# How Sponsorship Works with Btrust
+# Cómo Funciona el Patrocinio
 
-Sponsors play an important role in helping local developer communities thrive by removing logistical barriers and encouraging open technical exchange. This section helps sponsors understand how to meaningfully support BitDevs locations: balancing financial assistance with community independence, and ensuring that sponsorship enhances, rather than shapes, the learning experience. 
+Los patrocinadores juegan un papel importante al ayudar a las comunidades locales de desarrolladores a prosperar, eliminando barreras logísticas y fomentando el intercambio técnico abierto. Esta sección ayuda a los patrocinadores a entender cómo apoyar de manera significativa a las ubicaciones de BitDevs: equilibrando la asistencia financiera con la independencia comunitaria, y asegurando que el patrocinio mejore, en lugar de moldear, la experiencia de aprendizaje.
 
-## The Role of Sponsorship
+## El Rol del Patrocinio
 
-BitDevs locations are volunteer-led, grassroots initiatives that depend on community commitment and modest funding support. Sponsorships allow organizers to host regular meetups without financial strain, while keeping all events free and open to the public. 
+Las ubicaciones de BitDevs son iniciativas de base lideradas por voluntarios que dependen del compromiso comunitario y de un apoyo financiero modesto. Los patrocinios permiten a los organizadores realizar reuniones regulares sin presión financiera, manteniendo todos los eventos gratuitos y abiertos al público.
 
-The most effective sponsorships are:
+Los patrocinios más efectivos son:
 
-- Simple – Cover essential operational costs only.
-- Transparent – Clearly communicated terms and expectations.
-- Purpose-driven – Support learning and technical development, not marketing or influence.
+- Simples – Cubren solo los costos operativos esenciales.
+- Transparentes – Términos y expectativas comunicados claramente.
+- Con propósito – Apoyan el aprendizaje y el desarrollo técnico, no el marketing o la influencia.
 
-## Sponsorship Models
+## Modelos de Patrocinio
 
-> **Note**: Sponsorships must always be **non-conditional**; no promotional requirements, sales pitches, or branding impositions are allowed within BitDevs events.
+> **Nota**: Los patrocinios deben ser siempre **no condicionales**; no se permiten requisitos promocionales, presentaciones de ventas ni imposiciones de marca dentro de los eventos de BitDevs.
 
-While each sponsor may have a unique approach, support typically takes one of the following forms:
+Aunque cada patrocinador puede tener un enfoque único, el apoyo generalmente toma una de las siguientes formas:
 
-- **Recurring Sponsorship:** Regular funding (monthly or quarterly) for consistent operations.
-- **Per-Event Sponsorship:** Funding tied to specific events, conferences, or workshops.
-- **In-Kind Support:** Provision of venues, technical resources, printing, or refreshments instead of direct funding.
+- **Patrocinio Recurrente:** Financiamiento regular (mensual o trimestral) para operaciones consistentes.
+- **Patrocinio por Evento:** Financiamiento vinculado a eventos, conferencias o talleres específicos.
+- **Apoyo en Especie:** Provisión de lugares, recursos técnicos, impresión o refrigerios en lugar de financiamiento directo.
 
-## Example: Getting Approved for Sponsorship with Btrust
+## Ejemplo: Obtener Aprobación de Patrocinio con Btrust
 
-Btrust supports several BitDevs locations across Africa to strengthen local Bitcoin development communities. Sponsorship approval follows a structured process to ensure readiness, transparency, and accountability.
+Btrust apoya varias ubicaciones de BitDevs en África para fortalecer las comunidades locales de desarrollo de Bitcoin. La aprobación de patrocinio sigue un proceso estructurado para asegurar preparación, transparencia y rendición de cuentas.
 
-**Steps for Approval (Btrust Example):**
+**Pasos para la Aprobación (Ejemplo de Btrust):**
 
-1. **Application:** Submit a brief proposal detailing the city, organizer team, and community interest.
-2. **Initial Review:** Btrust evaluates readiness using the BitDevs Starter Checklist, focusing on team structure, developer participation, and sustainability.
-3. **Trial Period:** Approved locations begin with a 3-month trial sponsorship starting from their first event. During this phase, organizers must meet reporting and quality standards.
-4. **Evaluation and Continuation:** After the trial, Btrust reviews reports and engagement to determine eligibility for ongoing support.
+1. **Solicitud:** Enviar una propuesta breve detallando la ciudad, el equipo organizador y el interés de la comunidad.
+2. **Revisión Inicial:** Btrust evalúa la preparación usando la Lista de Verificación de Inicio de BitDevs, enfocándose en la estructura del equipo, participación de desarrolladores y sostenibilidad.
+3. **Período de Prueba:** Las ubicaciones aprobadas comienzan con un patrocinio de prueba de 3 meses a partir de su primer evento. Durante esta fase, los organizadores deben cumplir con los estándares de reporte y calidad.
+4. **Evaluación y Continuación:** Después del período de prueba, Btrust revisa los reportes y el compromiso para determinar la elegibilidad para apoyo continuo.
 
-Btrust’s sponsorship is logistics-focused, not influence-based, covering essential costs while preserving the organizer’s full independence over content and format.
+El patrocinio de Btrust está enfocado en la logística, no en la influencia, cubriendo costos esenciales mientras preserva la total independencia del organizador sobre el contenido y formato.
 
-(See detail in Section 2: [Getting Approved for Sponsorship with Btrust.](02-starting-a-bitdevs-location/03-getting-approved-for-sponsorship-with-btrust.md))
+En Latinoamérica y España, programas como [Librería de Satoshi](https://libreriadesatoshi.com) y [b4os](https://b4os.dev) ofrecen modelos de patrocinio similares adaptados al contexto hispanohablante.
+
+(Ver detalle en Sección 2: [Obtener Aprobación de Patrocinio.](02-starting-a-bitdevs-location/03-obtener-aprobacion-de-patrocinio.md))
