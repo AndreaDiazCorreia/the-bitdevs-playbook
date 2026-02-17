@@ -1,33 +1,33 @@
-# Partnering for Long-Term Impact
+# Asociarse para un Impacto a Largo Plazo
 
-## The Role of Sustainable Sponsorship
+## El Rol del Patrocinio Sostenible
 
-Short-term funding can help locations start, but long-term partnerships help them thrive. The most impactful sponsors focus on continuity, ensuring locations have stability to grow organically. 
+El financiamiento a corto plazo puede ayudar a las ubicaciones a comenzar, pero las asociaciones a largo plazo las ayudan a prosperar. Los patrocinadores más impactantes se enfocan en la continuidad, asegurando que las ubicaciones tengan estabilidad para crecer de manera orgánica.
 
-**Effective long-term sponsors:**
+**Los patrocinadores efectivos a largo plazo:**
 
-- Prioritize consistency over scale.
-- Encourage cross-community learning rather than central control.
-- Invest in capacity-building (e.g., facilitator training, educational materials).
+- Priorizan la consistencia sobre la escala.
+- Fomentan el aprendizaje entre comunidades en lugar del control centralizado.
+- Invierten en fortalecimiento de capacidades (por ejemplo, formación de facilitadores, materiales educativos).
 
-## Building a Network of Shared Purpose
+## Construir una Red con Propósito Compartido
 
-> **Note**: For Btrust, this vision translates into building a network of autonomous, technically grounded communities across the Global South, united by open knowledge and shared values, not brand influence. 
+> **Nota**: Para organizaciones como Btrust, [Librería de Satoshi](https://libreriadesatoshi.com) y [b4os](https://b4os.dev), esta visión se traduce en construir una red de comunidades autónomas y técnicamente sólidas, unidas por el conocimiento abierto y valores compartidos, no por la influencia de marca.
 
-Sponsorship is most effective when aligned with a shared mission: to strengthen open-source Bitcoin development and empower local talent. Sponsors can enhance this mission by:
+El patrocinio es más efectivo cuando se alinea con una misión compartida: fortalecer el desarrollo de Bitcoin de código abierto y empoderar al talento local. Los patrocinadores pueden potenciar esta misión al:
 
-- Supporting regional collaboration and shared events.
-- Providing mentorship and learning resources for organizers.
-- Helping locations connect with the wider developer ecosystem. 
+- Apoyar la colaboración regional y eventos compartidos.
+- Proporcionar mentoría y recursos de aprendizaje para organizadores.
+- Ayudar a las ubicaciones a conectarse con el ecosistema más amplio de desarrolladores.
 
-## Responsible Exit and Continuity
+## Salida Responsable y Continuidad
 
-When a sponsorship term ends, sponsors should ensure a smooth transition:
+Cuando un período de patrocinio termina, los patrocinadores deben asegurar una transición fluida:
 
-- Notify organizers in advance of any funding changes.
-- Share recommendations for alternative support sources.
-- Help preserve continuity by transferring knowledge, contacts, or tools.
+- Notificar a los organizadores con anticipación sobre cualquier cambio en el financiamiento.
+- Compartir recomendaciones de fuentes alternativas de apoyo.
+- Ayudar a preservar la continuidad transfiriendo conocimiento, contactos o herramientas.
 
-> **Note**: This ensures the location remains active and respected even after funding shifts.
+> **Nota**: Esto asegura que la ubicación permanezca activa y respetada incluso después de cambios en el financiamiento.
 
-Sponsors play a key enabling role in the growth and sustainability of BitDevs locations, not by directing them, but by empowering independence, accountability, and shared learning. Clear communication, transparency, and respect for community autonomy make sponsorship a partnership that drives lasting impact.
+Los patrocinadores juegan un papel facilitador clave en el crecimiento y sostenibilidad de las ubicaciones de BitDevs, no dirigiéndolas, sino empoderando la independencia, la rendición de cuentas y el aprendizaje compartido. La comunicación clara, la transparencia y el respeto por la autonomía comunitaria hacen del patrocinio una asociación que impulsa un impacto duradero.

@@ -1,31 +1,31 @@
-# What Sponsors Can (and Can’t) Support
+# Lo Que los Patrocinadores Pueden (y No Pueden) Apoyar
 
-Sponsors play a key role in supporting operational needs, but their contributions must respect BitDevs’ Bitcoin-only, non-commercial identity. This section clarifies eligible support and off-limits activities.
+Los patrocinadores juegan un papel clave en el apoyo a las necesidades operativas, pero sus contribuciones deben respetar la identidad de BitDevs: enfocada solo en Bitcoin y no comercial. Esta sección aclara el apoyo elegible y las actividades no permitidas.
 
-## Eligible Support Areas
+## Áreas de Apoyo Elegibles
 
-> **Note**: These expenses must always align with BitDevs’ non-commercial, Bitcoin-only identity. 
+> **Nota**: Estos gastos deben alinearse siempre con la identidad no comercial y enfocada solo en Bitcoin de BitDevs.
 
-Sponsors can fund or provide in-kind support for legitimate operational needs that help maintain consistent, high-quality events. Examples include:
+Los patrocinadores pueden financiar o proporcionar apoyo en especie para necesidades operativas legítimas que ayuden a mantener eventos consistentes y de alta calidad. Ejemplos incluyen:
 
-- Venue rental or space setup costs.
-- Refreshments or light catering for attendees.
-- Audio-visual (AV) or internet support for meetups.
-- Design and printing of neutral event materials (signage, posters, etc.).
-- Technical workshops or travel costs for volunteer speakers, if relevant.
+- Alquiler de lugar o costos de preparación del espacio.
+- Refrigerios o catering ligero para los asistentes.
+- Soporte audiovisual (AV) o de internet para las reuniones.
+- Diseño e impresión de materiales neutrales para eventos (señalización, pósters, etc.).
+- Talleres técnicos o costos de viaje para ponentes voluntarios, si corresponde.
 
-## Note on Coverage
+## Nota sobre la Cobertura
 
-Sponsorship support may not cover 100% of all event costs. Depending on the sponsor’s priorities, budget, and alignment with the location’s goals, funding or in-kind support might cover part or all of the required expenses. Organizers should plan accordingly, and sponsors should feel empowered to contribute in ways that make sense for their resources and mission. The goal is to support sustainability and consistency without creating undue pressure or expectations. 
+El apoyo del patrocinio puede no cubrir el 100% de todos los costos del evento. Dependiendo de las prioridades del patrocinador, presupuesto y alineación con los objetivos de la ubicación, el financiamiento o apoyo en especie podría cubrir parte o la totalidad de los gastos requeridos. Los organizadores deben planificar en consecuencia, y los patrocinadores deben sentirse en libertad de contribuir de maneras que tengan sentido para sus recursos y misión. El objetivo es apoyar la sostenibilidad y consistencia sin crear presión o expectativas indebidas.
 
-## Ineligible or Off-Limits Activities
+## Actividades No Elegibles o No Permitidas
 
-> **Note**: For Btrust-sponsored locations, the approved budget template outlines eligible expense categories and limits. Organizers must keep receipts and submit reports after each event.
+> **Nota**: Para ubicaciones patrocinadas, la plantilla de presupuesto aprobada describe las categorías de gastos elegibles y sus límites. Los organizadores deben conservar los recibos y presentar reportes después de cada evento.
 
-BitDevs locations must not accept or use sponsorship funds for activities that compromise neutrality or community trust. These include:
+Las ubicaciones de BitDevs no deben aceptar ni utilizar fondos de patrocinio para actividades que comprometan la neutralidad o la confianza comunitaria. Estas incluyen:
 
-- Paid entry fees or exclusive attendance.
-- Altcoin promotion, crypto gambling, marketing campaigns, or token giveaways.
-- Paid speaking slots or sponsored presentations.
-- Branding outside of the organizer’s own that dominates the event (e.g., banners, sales booths).
-- Payments to organizers or attendees.
+- Cobro de entrada o asistencia exclusiva.
+- Promoción de altcoins, apuestas cripto, campañas de marketing o sorteos de tokens.
+- Espacios de ponencia pagados o presentaciones patrocinadas.
+- Marca externa al organizador que domine el evento (por ejemplo, banners, stands de venta).
+- Pagos a organizadores o asistentes.

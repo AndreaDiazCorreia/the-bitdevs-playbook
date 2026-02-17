@@ -1,35 +1,34 @@
-# Accountability and Collaboration 
+# Rendición de Cuentas y Colaboración
 
-Maintaining a healthy sponsor-organizer relationship depends on transparency, clear communication, and mutual accountability.
+Mantener una relación saludable entre patrocinador y organizador depende de la transparencia, comunicación clara y rendición de cuentas mutua.
 
-## Transparency in Funding
+## Transparencia en el Financiamiento
 
-> **Note**: Sponsors should expect and encourage lean spending: the focus is on consistency, not extravagance. 
+> **Nota**: Los patrocinadores deben esperar y fomentar un gasto austero: el enfoque es la consistencia, no la extravagancia.
 
-Transparency maintains community credibility and sponsor trust. All sponsorship funds should be documented and reported clearly.
+La transparencia mantiene la credibilidad comunitaria y la confianza del patrocinador. Todos los fondos de patrocinio deben documentarse y reportarse de manera clara.
 
-**Key accountability practices:**
+**Prácticas clave de rendición de cuentas:**
 
-- Maintain a Finance Report Folder with all receipts and transaction details.
-- Submit Meetup Reports summarizing attendance, discussions, and feedback.
-- Keep communication open between organizers and sponsors regarding any adjustments.
+- Mantener una Carpeta de Reportes Financieros con todos los recibos y detalles de transacciones.
+- Presentar Reportes de Reunión que resuman asistencia, discusiones y retroalimentación.
+- Mantener la comunicación abierta entre organizadores y patrocinadores respecto a cualquier ajuste.
 
+## Comunicación Regular
 
-## Regular Communication
+> **Nota**: Para ubicaciones patrocinadas, las reuniones periódicas de seguimiento con organizadores sirven como una plataforma colaborativa para revisión de progreso, apoyo y resolución de problemas.
 
-> **Note**: For Btrust-sponsored locations, monthly organizer check-ins serve as a collaborative platform for progress review, support, and troubleshooting.
+La colaboración sólida se basa en actualizaciones regulares, lecciones compartidas y retroalimentación honesta.
 
-Strong collaboration relies on regular updates, shared lessons, and honest feedback.
+- Los organizadores deben enviar resúmenes breves después de cada evento enfocados en el impacto más que en collages de fotos.
+- Los patrocinadores pueden proporcionar retroalimentación opcional o compartir experiencias de otras ubicaciones.
+- Las reuniones periódicas de seguimiento ayudan a ambas partes a alinearse en objetivos y abordar desafíos de manera temprana.
 
-- Organizers should send short recaps after each event focused on impact rather than photo collages.
-- Sponsors can provide optional feedback or share insights from other locations.
-- Periodic check-ins help both sides align on goals and address challenges early.
+## Rendición de Cuentas Mutua
 
-## Mutual Accountability
+> **Nota**: Se recomienda que ambas partes documenten las expectativas al inicio del patrocinio y las revisen anualmente, o con alguna otra frecuencia mutuamente acordada.
 
-> **Note**: Both parties are encouraged to document expectations at the start of sponsorship and revisit them annually, or at some other mutually agreed frequency.
+La rendición de cuentas es bilateral:
 
-Accountability is two-sided:
-
-- Organizers must uphold transparency and community standards.
-- Sponsors must respect location autonomy and uphold neutrality.
+- Los organizadores deben mantener la transparencia y los estándares comunitarios.
+- Los patrocinadores deben respetar la autonomía de la ubicación y mantener la neutralidad.
